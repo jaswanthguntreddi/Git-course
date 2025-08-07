@@ -1,0 +1,4 @@
+this is the appliation for the user services .
+username:jaswanth
+email:jaswanthguntreddi789@gmail.com
+pass:jaswanth@123
